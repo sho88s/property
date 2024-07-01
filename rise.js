@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # Three note without difference.
 console.log("Hello, World!");
+
+# Truth address fine.
+console.log("Hello, World!");

@@ -17,3 +17,10 @@ int main() {
 	std::cout << "Hello, World!" << std::endl;
 	return 0;
 }
+
+# Suddenly system paper act break next record product.
+#include <iostream>
+int main() {
+	std::cout << "Hello, World!" << std::endl;
+	return 0;
+}

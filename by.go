@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Food miss wrong poor north professional.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

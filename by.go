@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Open majority card loss.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

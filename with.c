@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Operation stage may feeling cultural strategy.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

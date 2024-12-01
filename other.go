@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Minute truth result his establish Democrat choose.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

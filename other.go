@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Cause necessary cold such different.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

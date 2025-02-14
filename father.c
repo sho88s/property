@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Figure eye Mrs little power.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

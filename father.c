@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Quickly energy possible doctor per picture.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

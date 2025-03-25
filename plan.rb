@@ -1,4 +1,10 @@
-puts "Hello, World!"
+# Simple greeting program
 
-# Data magazine any house focus system class.
-puts "Hello, World!"
+def greet
+  puts "Hello, World!"
+end
+
+# Main program execution
+if __FILE__ == $0
+  greet
+end
